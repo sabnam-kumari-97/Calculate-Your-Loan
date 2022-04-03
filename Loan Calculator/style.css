@@ -1,12 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: pink;
+    background-color: rgb(161, 94, 206);
 }
 
 .container{
     width: 400px;
     height: 450px;
-    background-color: #ff1d58;
+    background-color: #e9517a;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -28,7 +28,7 @@ input:focus{
 }
 
 h1{
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h2{
