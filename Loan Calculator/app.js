@@ -1,4 +1,4 @@
-function calculateLoan(){
+function calculate_Loan(){
     const amount = document.querySelector('#amount').value;
     const interest_rate = document.querySelector('#interest').value;
     const months = document.querySelector('#months').value;

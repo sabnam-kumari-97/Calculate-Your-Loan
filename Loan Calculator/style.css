@@ -1,12 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: rgb(161, 94, 206);
+    background-color: rgb(172, 112, 212);
 }
 
 .container{
     width: 400px;
     height: 450px;
-    background-color: #e9517a;
+    background-color: #d05d7c;
     position: absolute;
     left: 50%;
     top: 50%;
